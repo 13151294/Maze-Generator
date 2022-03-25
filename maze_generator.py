@@ -127,4 +127,4 @@ if __name__ == '__main__':
     drawBoard(board, imageSize)
 
     #text way (size > 4) will be weird
-    #printBoard(board)
+    printBoard(board)
